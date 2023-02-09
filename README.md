@@ -2,6 +2,8 @@
 
 *Rack* is the host application for the VCV virtual Eurorack modular synthesizer platform.
 
+this is brnco's build tho
+
 - [VCV website](https://vcvrack.com/)
 - [Manual](https://vcvrack.com/manual/)
 - [Support](https://vcvrack.com/support)
